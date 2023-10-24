@@ -1,10 +1,10 @@
 import React from 'react';
-import './App.css'; // Importez le fichier CSS que vous avez créé
+import './App.css'; 
 
 function App() {
   const data = [
     { nom: 'Jimmy', prenom: 'Lefevre', description: 'exo1 de Docker avec Jimmy' },
-    // Vous pouvez ajouter d'autres entrées ici
+   
   ];
 
   return (
